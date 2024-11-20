@@ -1,0 +1,42 @@
+﻿@using System.Globalization
+ @using TodoApp.Models
+ @model List<Todo>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css"
+          integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+</head>
+<body>
+    <div class="container">
+        <a class="btn btn-outline-primary my-2" href="/Todo/Create">Create task</a>
+        <ol class="list-group">
+            @foreach (var item in Model)
+            {
+                <li class="list-group-item">
+                    @item.Title----- @item.Deadline.ToString("dd MMMM  yyyy- HH:mm:ss",
+                new CultureInfo("az"))
+                    @if (DateTime.Now > item.Deadline)
+                    {
+                       <p>|Vaxti kecib|</p>
+                    }else{<p>|Task gozleyir|</p>}
+
+
+
+                    <a class="btn btn-outline-secondary mx-1" href="#">bax</a>
+                    <a class="btn btn-outline-success  mx-1" href="Todo/Update/@item.Id">Duzelish et</a>
+                    <a class="btn btn-outline-danger mx-1" href="/Todo/Delete/@item.Id">sil</a>
+                </li>
+            }
+        </ol>
+
+    </div>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js"
+            integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+            crossorigin="anonymous"></script>
+</body>
+</html>

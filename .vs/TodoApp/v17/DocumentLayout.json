@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\TodoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8D24F40-3F7B-439E-A20F-C59E59284890}|TodoApp\\TodoApp.csproj|c:\\users\\user\\source\\repos\\todoapp\\todoapp\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8D24F40-3F7B-439E-A20F-C59E59284890}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8D24F40-3F7B-439E-A20F-C59E59284890}|TodoApp\\TodoApp.csproj|c:\\users\\user\\source\\repos\\todoapp\\todoapp\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8D24F40-3F7B-439E-A20F-C59E59284890}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8D24F40-3F7B-439E-A20F-C59E59284890}|TodoApp\\TodoApp.csproj|c:\\users\\user\\source\\repos\\todoapp\\todoapp\\contexts\\bp215efcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8D24F40-3F7B-439E-A20F-C59E59284890}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\contexts\\bp215efcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8D24F40-3F7B-439E-A20F-C59E59284890}|TodoApp\\TodoApp.csproj|c:\\users\\user\\source\\repos\\todoapp\\todoapp\\views\\todo\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8D24F40-3F7B-439E-A20F-C59E59284890}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\views\\todo\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8D24F40-3F7B-439E-A20F-C59E59284890}|TodoApp\\TodoApp.csproj|c:\\users\\user\\source\\repos\\todoapp\\todoapp\\views\\todo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8D24F40-3F7B-439E-A20F-C59E59284890}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\views\\todo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8D24F40-3F7B-439E-A20F-C59E59284890}|TodoApp\\TodoApp.csproj|c:\\users\\user\\source\\repos\\todoapp\\todoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8D24F40-3F7B-439E-A20F-C59E59284890}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8D24F40-3F7B-439E-A20F-C59E59284890}|TodoApp\\TodoApp.csproj|c:\\users\\user\\source\\repos\\todoapp\\todoapp\\views\\home\\bdu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8D24F40-3F7B-439E-A20F-C59E59284890}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\views\\home\\bdu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TodoApp\\TodoApp\\Views\\Todo\\Update.cshtml",
+              "RelativeDocumentMoniker": "TodoApp\\Views\\Todo\\Update.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TodoApp\\TodoApp\\Views\\Todo\\Update.cshtml",
+              "RelativeToolTip": "TodoApp\\Views\\Todo\\Update.cshtml",
+              "ViewState": "AQIAABQAAAAAaGZmZmbmvyEAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T18:46:40.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TodoApp\\TodoApp\\Views\\Todo\\Create.cshtml",
+              "RelativeDocumentMoniker": "TodoApp\\Views\\Todo\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TodoApp\\TodoApp\\Views\\Todo\\Create.cshtml",
+              "RelativeToolTip": "TodoApp\\Views\\Todo\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T11:07:12.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TodoApp\\TodoApp\\Views\\Todo\\Index.cshtml",
+              "RelativeDocumentMoniker": "TodoApp\\Views\\Todo\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TodoApp\\TodoApp\\Views\\Todo\\Index.cshtml",
+              "RelativeToolTip": "TodoApp\\Views\\Todo\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T09:17:04.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TodoApp\\TodoApp\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Controllers\\TodoController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TodoApp\\TodoApp\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "TodoApp\\Controllers\\TodoController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T09:12:09.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bp215efContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TodoApp\\TodoApp\\Contexts\\Bp215efContext.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Contexts\\Bp215efContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TodoApp\\TodoApp\\Contexts\\Bp215efContext.cs",
+              "RelativeToolTip": "TodoApp\\Contexts\\Bp215efContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T09:09:43.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bdu.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TodoApp\\TodoApp\\Views\\Home\\Bdu.cshtml",
+              "RelativeDocumentMoniker": "TodoApp\\Views\\Home\\Bdu.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TodoApp\\TodoApp\\Views\\Home\\Bdu.cshtml",
+              "RelativeToolTip": "TodoApp\\Views\\Home\\Bdu.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T08:50:55.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TodoApp\\TodoApp\\Program.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TodoApp\\TodoApp\\Program.cs",
+              "RelativeToolTip": "TodoApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T00:26:53.403Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
